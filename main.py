@@ -9,7 +9,7 @@ from flask import Flask
 from threading import Thread
 
 # --- ТАНЗИМОТ ---
-TOKEN = '8073303487:AAE5YzxhAGzDaTPHE8p1Sj-7NBN67fOmLe4'
+TOKEN = '8041999312:AAG8lRhs9JdComOToUtU-lbdy0dfK4a619o'
 ADMIN_ID = 8014656470
 bot = telebot.TeleBot(TOKEN)
 app = Flask('')
